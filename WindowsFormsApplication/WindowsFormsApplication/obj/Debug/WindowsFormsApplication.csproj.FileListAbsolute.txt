@@ -1,8 +1,0 @@
-F:\GithubProject\ilovewinform\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
-F:\GithubProject\ilovewinform\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
-F:\GithubProject\ilovewinform\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
-F:\GithubProject\ilovewinform\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
-F:\GithubProject\ilovewinform\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
-F:\GithubProject\ilovewinform\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
-F:\GithubProject\ilovewinform\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
-F:\GithubProject\ilovewinform\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
